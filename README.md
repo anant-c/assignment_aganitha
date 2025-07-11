@@ -2,10 +2,10 @@
 
 A command-line tool to fetch research papers from PubMed, filtering for those with authors affiliated with pharmaceutical or biotech companies.
 
-## Video Demo: 
-## LLM Chat Link: 
+## Video Demo: https://youtu.be/GsMyritvqKk
+## LLM Chat Link: https://chatgpt.com/share/6871178e-353c-800d-a42d-8b0711c071a3
 
-## Code Organization 
+## Code Organization
 
 The project is organized into two main parts as per the assignment's bonus requirements:
 
