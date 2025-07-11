@@ -18,7 +18,7 @@ This project uses [Poetry](https://python-poetry.org/) for dependency management
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-github-repo-url>
+    git clone https://github.com/anant-c/assignment_aganitha.git
     cd pubmed-paper-fetcher
     ```
 
